@@ -8,7 +8,7 @@
 ~ `Save downloaded reels`
 ~ `Play and enjoy watching reels`
 
-<img src="https://github.com/Harshita248/Reels_downloader/blob/master/Screenshots/1.png" width="200"> <img src="https://github.com/Harshita248/Reels_downloader/blob/master/Screenshots/2.png" width="200"> <img src="https://github.com/Harshita248/Reels_downloader/blob/master/Screenshots/3.png" width="200"><img src="https://github.com/Harshita248/Reels_downloader/blob/master/Screenshots/4.png" width="200">
+<img src="https://github.com/Harshita248/Reels_downloader/blob/main/Screenshots/1.png" width="200"> <img src="https://github.com/Harshita248/Reels_downloader/blob/main/Screenshots/2.png" width="200"> <img src="https://github.com/Harshita248/Reels_downloader/blob/main/Screenshots/3.png" width="200"> <img src="https://github.com/Harshita248/Reels_downloader/blob/main/Screenshots/4.png" width="200">
 
 
 
