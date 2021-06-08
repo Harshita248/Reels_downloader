@@ -2,6 +2,7 @@
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Harshita248)
+[![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Harshita248)
 
 #### Developed for users to download their favourite videos & watch reels in their leisure!
 
